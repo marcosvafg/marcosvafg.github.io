@@ -11,7 +11,7 @@ Em Setembro/2018 o LabHacker da Câmara dos Deputados gravou o curso e disponibi
 - Vídeo da Aula 01.
 - Vídeo da Aula 02.
 
-Recomendo que você assista os vídeos na sequência e execute todas as análises por conta própria. Todo o código criado no curso está disponível no github do Observatório Social de Brasília mas é importante que você mesmo codifique os exemplos. Lembre-se que **só se aprende a programar, programando!**
+Recomendo que você assista os vídeos e execute todas as análises por conta própria. Todo o código criado no curso está disponível no github do Observatório Social de Brasília mas é importante que você mesmo codifique os exemplos. Lembre-se que **só se aprende a programar, programando!**
 
 [Vídeos do curso](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH)
 
