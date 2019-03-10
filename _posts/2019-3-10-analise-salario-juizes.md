@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Analisando o salários dos juízes brasileiros
+published: true
 ---
 Conforme determinação do Conselho Nacional de Justiça - CNJ ([Portaria n. 63, de 17 de agosto de 2017](http://www.cnj.jus.br/busca-atos-adm?documento=3352)) todos os 90 tribunais brasileiros devem disponibilizar as informações de remuneração dos seus magistrados, em cumprimento à lei de Acesso à Informação. Para padronizar a divulgação desses dados o CNJ criou uma planilha Excel padrão, que deve ser preenchida pelos tribunais, e passou a disponibilizar todas as planilhas em seu site ([Remuneraçao dos Magistrados](http://www.cnj.jus.br/transparencia/remuneracao-dos-magistrados)).
 
@@ -13,4 +14,3 @@ Te convido a estudar, entender, usar e modificar o código disponibilizado.
 [Salários dos Juízes do TJDFT - 12/2017](https://github.com/marcosvafg/salario_juizes/blob/master/Salarios_Juizes_TJDFT_122017.ipynb)
 
 **Bons códigos!**
-   
