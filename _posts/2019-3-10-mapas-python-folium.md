@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Criando mapas com Python e Folium
-published: true
 ---
 Existem diversas biliotecas que nos ajudam a criar mapas facilmente usando a linguagem Python. Uma excelente biblioteca é a **folium**, que iremos usar nesse exemplo para geolocalizar as Unidades Básicas de Saúde do SUS que se localizam em Brasília/DF.
 

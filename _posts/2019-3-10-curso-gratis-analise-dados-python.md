@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: Curso de Análise de Dados usando Programação para Não-Programadores
 ---
