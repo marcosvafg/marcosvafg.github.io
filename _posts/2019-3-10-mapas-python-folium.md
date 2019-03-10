@@ -9,6 +9,6 @@ As Unidades Básicas de Saúde (UBS) são a porta de entrada preferencial do Sis
 
 No [Portal Brasileiros de Dados Abertos](http://www.dados.gov.br) podemos ter acesso a uma lista de todas as UBS brasileiras, com algumas informações sobre cada unidade, incluindo a indicação de Latitude e Longitude para georeferenciamento.
 
-Todos os códigos de geração de mapas usando a biblioteca folium foram baseados no excelente tutorial feito pela Jéssica Temporal, que está nesse link [Tutorial de folium da Jéssica Temporal](http://jtemporal.com/folium/)
+Todos os códigos de geração de mapas usando a biblioteca folium foram baseados no excelente tutorial feito pela Jéssica Temporal, que está nesse link -> [Tutorial de folium da Jéssica Temporal](http://jtemporal.com/folium/)
 
 **Bons códigos!**
