@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Analista de Sistemas do TSE. Entusiasta de Data Science Enthusiast. Professor de Python, Data Analysis, Data Science, Machine Learning e Deep Learning.
