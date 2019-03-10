@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Criando mapas com Python e Folium
 published: true
