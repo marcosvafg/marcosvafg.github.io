@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 ---
 ## Analisando o salários dos juízes brasileiros
