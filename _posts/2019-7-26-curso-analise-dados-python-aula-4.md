@@ -14,6 +14,6 @@ Recomendo que você assista todos os vídeos e execute todas as análises por co
 
 [Vídeos do curso](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH)
 
-[Códigos criados durante o curso](https://github.com/OSBrasilia/Curso_Analise_Dados_Publicos_Online)
+[Código da Aula 4](https://github.com/marcosvafg/mapa_eleicoes_2018)
 
 **Vamos programar!**
